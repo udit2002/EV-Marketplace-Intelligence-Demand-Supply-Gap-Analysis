@@ -33,11 +33,11 @@ To analyze the EV marketplace ecosystem by studying:
 <img src="Images/Overview.PNG" width="900"/>
 
 **What It Shows:**
--Total dealer count
--Tier distribution
--City concentration
--Geographic EV hubs
--Platform penetration
+- Total dealer count
+- Tier distribution
+- City concentration
+- Geographic EV hubs
+- Platform penetration
 
 **Business Insight:**  
 Identifies supply concentration and onboarding gaps across regions and city tiers.
@@ -49,9 +49,9 @@ Identifies supply concentration and onboarding gaps across regions and city tier
 <img src="Images/Market.PNG" width="900"/>
 
 **What It Shows:**
--Dealers not onboarded by city
--Brand-level onboarding gaps
--Tier penetration %
+- Dealers not onboarded by city
+- Brand-level onboarding gaps
+- Tier penetration %
 
 **Business Insight:**  
 Highlights priority cities and brands for marketplace expansion.
@@ -63,11 +63,11 @@ Highlights priority cities and brands for marketplace expansion.
 <img src="Images/Demand.PNG" width="900"/>
 
 **What It Shows:**
--Total leads
--Transaction rate
--NI rate
--Brand intent consistency
--Category demand intensity
+- Total leads
+- Transaction rate
+- NI rate
+- Brand intent consistency
+- Category demand intensity
 
 **Business Insight:**  
 Evaluates buyer clarity, transaction potential, and friction points in lead quality.
@@ -79,11 +79,11 @@ Evaluates buyer clarity, transaction potential, and friction points in lead qual
 <img src="Images/Listing.PNG" width="900"/>
 
 **What It Shows:**
--Total listings
--Active dealers
--Paid vs Free activity
--Brand listing coverage
--Vehicle type distribution
+- Total listings
+- Active dealers
+- Paid vs Free activity
+- Brand listing coverage
+- Vehicle type distribution
 
 **Business Insight:**  
 Assesses supply readiness and seller engagement quality.
