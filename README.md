@@ -33,6 +33,7 @@ To analyze the EV marketplace ecosystem by studying:
 <img src="Images/Overview.PNG" width="900"/>
 
 **What It Shows:**
+
 - Total dealer count
 - Tier distribution
 - City concentration
@@ -49,6 +50,7 @@ Identifies supply concentration and onboarding gaps across regions and city tier
 <img src="Images/Market.PNG" width="900"/>
 
 **What It Shows:**
+
 - Dealers not onboarded by city
 - Brand-level onboarding gaps
 - Tier penetration %
@@ -63,6 +65,7 @@ Highlights priority cities and brands for marketplace expansion.
 <img src="Images/Demand.PNG" width="900"/>
 
 **What It Shows:**
+
 - Total leads
 - Transaction rate
 - NI rate
@@ -79,6 +82,7 @@ Evaluates buyer clarity, transaction potential, and friction points in lead qual
 <img src="Images/Listing.PNG" width="900"/>
 
 **What It Shows:**
+
 - Total listings
 - Active dealers
 - Paid vs Free activity
