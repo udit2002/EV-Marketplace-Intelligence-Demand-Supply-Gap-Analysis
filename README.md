@@ -26,56 +26,38 @@ To analyze the EV marketplace ecosystem by studying:
 
 ---
 
-## 📊 Dashboard Modules
+# 📊 Dashboard Preview
 
-### 1️⃣ Dealer Landscape Overview
+## 1️⃣ Dealer Landscape Overview
 
-**What It Shows:**
-- Total dealer count
-- Tier distribution
-- City concentration
-- Geographic EV hubs
-- Platform penetration
+<img src="Images/Overview.PNG" width="900"/>
 
 **Business Insight:**  
 Identifies supply concentration and onboarding gaps across regions and city tiers.
 
 ---
 
-### 2️⃣ Market Opportunity Analysis
+## 2️⃣ Market Opportunity Analysis
 
-**What It Shows:**
-- Dealers not onboarded by city
-- Brand-level onboarding gaps
-- Tier penetration %
+<img src="Images/Market.PNG" width="900"/>
 
 **Business Insight:**  
 Highlights priority cities and brands for marketplace expansion.
 
 ---
 
-### 3️⃣ Demand Intelligence – Buylead Quality
+## 3️⃣ Demand Intelligence – Buylead Quality
 
-**What It Shows:**
-- Total leads
-- Transaction rate
-- NI rate
-- Brand intent consistency
-- Category demand intensity
+<img src="Images/Demand.PNG" width="900"/>
 
 **Business Insight:**  
 Evaluates buyer clarity, transaction potential, and friction points in lead quality.
 
 ---
 
-### 4️⃣ Listing & Seller Intelligence
+## 4️⃣ Listing & Seller Intelligence
 
-**What It Shows:**
-- Total listings
-- Active dealers
-- Paid vs Free seller activity
-- Brand listing coverage
-- Vehicle type distribution
+<img src="Images/Listing.PNG" width="900"/>
 
 **Business Insight:**  
 Assesses supply readiness and seller engagement quality.
@@ -102,7 +84,7 @@ This project enables:
 
 ---
 
-## 📎 Author
+## 👨‍💻 Author
 
 Udit  
 Engineering Student | Aspiring Data Analyst  
